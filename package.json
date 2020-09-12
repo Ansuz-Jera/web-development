@@ -1,0 +1,16 @@
+{
+  "name": "curso-web-git",
+  "version": "1.0.0",
+  "description": "Primer proyecto nodeJs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Ansuz-Jera@bitbucket.org/Ansuz-Jera/curso-web-git.git"
+  },
+  "author": "Azurmendi Joaquin",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Ansuz-Jera/curso-web-git#readme"
+}
